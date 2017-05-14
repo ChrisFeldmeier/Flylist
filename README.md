@@ -6,9 +6,9 @@ Hackathon feeling :-)
 
 ## What it does
 **Dynamic packing list for travel and holiday
-Our Vision: Speed up the time to pack your suitcase !!!**
+Our Vision: Speed up the time to pack your suitcase !!!**
 
-Enter your journey destination to create individual packing lists based on weather forecast informations, locations and categories
+Enter your journey destination to create individual packing lists based on weather forecast informations, locations and categories
 Buy missing packing list items (Amazon Affliate :-) )
 
 ## How we built it
