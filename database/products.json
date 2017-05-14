@@ -1,0 +1,453 @@
+[
+    {
+        "name": "Badeschuhe",
+        "category": "kleidung",
+        "standard": 0,
+        "typ":  "",
+        "temp": 16,
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Handtuch",
+        "category": "ausruestung",
+        "standard": 0,
+        "typ": "",
+        "temp": 22,
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Sonnenbrille",
+        "category": "ausruestung",
+        "standard": 0,
+        "typ": "",
+        "temp": 22,
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Rucksack",
+        "category": "ausruestung",
+        "standard": 0,
+        "typ": "",
+        "temp": 22,
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Smartphone",
+        "category": "technik",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Kamera",
+        "category": "technik",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Ladegerät",
+        "category": "technik",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Unterwäsche",
+        "category": "kleidung",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Socken",
+        "category": "kleidung",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Hose/Kleid/Rock",
+        "category": "kleidung",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Schuhe",
+        "category": "kleidung",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Wanderschuhe/Sportschuhe",
+        "category": "kleidung",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Kopfbedeckung",
+        "category": "kleidung",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Gürtel",
+        "category": "kleidung",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Shirts/Tops",
+        "category": "kleidung",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Jacke",
+        "category": "kleidung",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Badesachen",
+        "category": "kleidung",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Shampoo",
+        "category": "kosmetik",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Duschgel",
+        "category": "kosmetik",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Zahnbürste",
+        "category": "kosmetik",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Zahncreme",
+        "category": "kosmetik",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Deo",
+        "category": "kosmetik",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Hautpflege",
+        "category": "kosmetik",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Rasierer",
+        "category": "kosmetik",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Makeup",
+        "category": "kosmetik",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Kontaktlinsen/Pflegemittel",
+        "category": "kosmetik",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Personalausweis",
+        "category": "dokumente",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Führerschein",
+        "category": "dokumente",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "EC/Kreditkarte",
+        "category": "dokumente",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Visum",
+        "category": "dokumente",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Versicherungen",
+        "category": "dokumente",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Schmerztabletten",
+        "category": "gesundheit",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Sonnenschutz",
+        "category": "gesundheit",
+        "standard": 0,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Pflaster",
+        "category": "gesundheit",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Tägliche Medizin",
+        "category": "gesundheit",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Schmerztabletten",
+        "category": "gesundheit",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Haustiere versorgen",
+        "category": "vorderreise",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Heizung zurückdrehen",
+        "category": "vorderreise",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Müll wegbringen",
+        "category": "vorderreise",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Fenster schliessen",
+        "category": "vorderreise",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    },
+    {
+        "name": "Kühlschrankinhalt prüfen",
+        "category": "vorderreise",
+        "standard": 1,
+        "typ": "",
+        "temp": "",
+        "links": [
+            "",
+            ""
+        ]
+    }
+]
